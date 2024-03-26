@@ -1,0 +1,5 @@
+SELECT * FROM UYELER
+INSERT INTO UYELER VALUES('Begüm','Mürütsoy','M',57985,'begummurutsoyyy.38@kayseri.edu.tr',1)
+
+select * from ADRESLER 
+insert into ADRESLER values('15 TEmmuz','Mevlana','TBMYO','Kayseri',3800,'Türkiye')
